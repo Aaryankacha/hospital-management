@@ -1,4 +1,68 @@
-Hospital Database Management System (HDMS)Empowering Healthcare with Intelligence. The Hospital Database Management System (HDMS) is a modern, unified digital ecosystem designed to eliminate the chaos of fragmented paperwork and manual records. Developed as a "Concept to Practice" project for Atmiya University, this system prioritizes life-saving speed and data-driven clinical decision-making.🏥 Project Vision: Beyond Paper, Beyond Limits In critical healthcare moments, every second counts. Our system acts as a clinical partner, ensuring that comprehensive patient history is available instantly, making care uncompromisingly safe.✨ Key Features (Core Pillars)Instant Patient Retrieval: Access comprehensive medical history and treatment logs with a single click.Emergency Quick-Scan: A dedicated high-speed module for critical care, providing life-saving info (blood groups, allergies) in seconds.AI-Powered Accuracy: Smart assistance that helps clinicians spot trends and minimizes human data entry errors.Role-Based Security: Enterprise-grade encryption ensuring sensitive patient data is only accessible to authorized eyes.Interconnected Care: Real-time data synchronization between consultation rooms, diagnostic labs, and hospital pharmacies.100% Paperless Workflow: A zero-clutter digital framework designed to reduce physical storage costs and environmental impact.🛠️ Tools & TechnologiesFrontend: Flutter (Optimized for Mobile and Web).Backend: Firebase (Cloud Firestore & Authentication).Programming Language: Dart.Automation: WhatsApp API for automated appointment and critical health alerts.Design: Material 3 UI Standards.🧩 Problem Statement AddressedExisting manual filing systems are slow, unreliable, and prone to misplacement. Fragmentation across departments leads to:Information Gaps: Specialists lack access to previous treatments.Redundant Diagnostics: Repeated lab work due to inaccessible results.Medical Risks: Errors caused by missing or illegible paper records.🚀 Installation & SetupClone the Repository:Bashgit clone [your-repo-link]
-Install Dependencies:Bashflutter pub get
-Firebase Configuration:Create a Firebase project and enable Firestore and Authentication.Add your google-services.json (Android) or firebaseConfig (Web) to the appropriate directories.Run the App:Bashflutter run
-👥 The Team Aryan Kacha (Enrollment No. 230002037) Kachawala Mustafa (Enrollment No. 230002038) Project Guide: Prof. Krina Mashru Institution: Faculty of Engineering & Technology (FOET), Atmiya University Academic Year: 2025-26 📜 AcknowledgmentsSpecial thanks to our mentor and the Head of Department (H.O.D.) at Atmiya University for their constant guidance throughout this Concept to Practice journey.
+# 🏥 Hospital Database Management System (HDMS)
+### Empowering Healthcare with Intelligence
+
+The **Hospital Database Management System (HDMS)** is a modern, unified digital ecosystem designed to eliminate the chaos of fragmented paperwork and manual records.
+
+Developed as a **"Concept to Practice"** project for *Atmiya University*, this system prioritizes **life-saving speed** and **data-driven clinical decision-making**.
+
+---
+
+## 🚀 Project Vision: Beyond Paper, Beyond Limits
+
+In critical healthcare moments, every second counts.
+
+Our system acts as a **clinical partner**, ensuring that comprehensive patient history is available instantly, making care **uncompromisingly safe**.
+
+---
+
+## ✨ Key Features (Core Pillars)
+
+- 🔍 **Instant Patient Retrieval**  
+  Access complete medical history and treatment logs with a single click.
+
+- ⚡ **Emergency Quick-Scan**  
+  High-speed module for critical care (blood group, allergies, etc.).
+
+- 🤖 **AI-Powered Accuracy**  
+  Helps clinicians detect patterns and reduce human errors.
+
+- 🔐 **Role-Based Security**  
+  Enterprise-grade encryption with controlled access.
+
+- 🔗 **Interconnected Care**  
+  Real-time sync between doctors, labs, and pharmacies.
+
+- 🌱 **100% Paperless Workflow**  
+  Reduces physical storage and supports eco-friendly operations.
+
+---
+
+## 🧩 Problem Statement
+
+Traditional hospital systems suffer from:
+
+- ❌ **Information Gaps** – No access to past records  
+- 🔁 **Redundant Diagnostics** – Repeated tests  
+- ⚠️ **Medical Risks** – Errors due to missing/unclear data  
+
+HDMS solves these challenges with a **centralized digital solution**.
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category        | Technology Used                          |
+|----------------|------------------------------------------|
+| Frontend       | Flutter (Mobile + Web)                   |
+| Backend        | Firebase (Firestore & Authentication)    |
+| Language       | Dart                                     |
+| Automation     | WhatsApp API                             |
+| Design System  | Material 3 UI                            |
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone [your-repo-link]
