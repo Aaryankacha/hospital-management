@@ -1,3 +1,4 @@
+
 class LoginDataModel {
   String? email;
   String? password;
